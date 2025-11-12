@@ -327,6 +327,10 @@ cursor: pointer;
   color: white;
   background-color: red;
 }
+.btn-red:hover{
+  color: white;
+  background-color: red;
+}
 
 @media (max-width: 1200px) {
  .deal-banner {
